@@ -1,1 +1,1 @@
-# egypt-data
+Datasets for historical research on Egypt.
